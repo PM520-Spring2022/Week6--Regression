@@ -1,3 +1,3 @@
-# Week5--Regression
+# Week6--Regression
 
 This repository contains the input files for the regression problem in class.
